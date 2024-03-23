@@ -12,6 +12,10 @@ local
 logs
 modernfix
 mods
+config/embeddium++.toml
+config/embeddium-fingerprint.json
+config/embeddium-mixins.properties
+config/embeddium-options.json
 music_sheets
 otyacraftengine
 patchouli_books

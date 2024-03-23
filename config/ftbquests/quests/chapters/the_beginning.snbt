@@ -373,7 +373,9 @@
 				"0F5555DE0853713F"
 				"21B7F2CD60543097"
 			]
+			description: ["Hey so its your first time playing gregtech huh?"]
 			id: "10C3826673EC11A1"
+			subtitle: "You Suck"
 			tasks: [{
 				count: 12L
 				id: "395EEB5A368271BD"
