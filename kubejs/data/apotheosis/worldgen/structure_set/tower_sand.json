@@ -1,0 +1,15 @@
+{
+	"forge:conditions": [{
+		"type": "forge:false"
+	}],
+	"structures": [{
+		"structure": "apotheosis:tower_sand",
+		"weight": 0
+	}],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spacing": 26,
+		"separation": 20,
+		"salt": 15192020
+	}
+}

@@ -1,0 +1,6 @@
+{
+	chapter_groups: [
+		{ id: "26EE1E1400CAA454", title: "Main Progression" }
+		{ id: "46EC3440C52EC571", title: "Extras" }
+	]
+}

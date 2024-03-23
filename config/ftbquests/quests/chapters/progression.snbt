@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "progression"
+	group: "46EC3440C52EC571"
+	icon: "gtceu:basic_electronic_circuit"
+	id: "6226EBB92421B536"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Progression"
+}

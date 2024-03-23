@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3uvr__ultimate_voltage"
+	group: "26EE1E1400CAA454"
+	id: "435889EAA8227757"
+	order_index: 9
+	quest_links: [ ]
+	quests: [ ]
+	title: "&3UV&r - Ultimate Voltage"
+}

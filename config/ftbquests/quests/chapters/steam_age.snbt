@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam_age"
+	group: "26EE1E1400CAA454"
+	icon: "gtceu:steam_machine_casing"
+	id: "2DCAAC4B70BB5CFA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["0A9805777C4227BA"]
+		id: "3E4017A765ECCFE8"
+		tasks: [{
+			id: "67CA4B3AD4C91769"
+			item: "gtceu:lp_steam_solid_boiler"
+			type: "item"
+		}]
+		title: "Steam Power!"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Steam Age"
+}
